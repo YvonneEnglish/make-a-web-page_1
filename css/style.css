@@ -1,0 +1,71 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+  background-color: #0080C1;
+}
+
+a {
+  color: #F39A00;
+}
+
+.lesson {
+  color: #FFFFFF;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.subtitle  {
+  background-color: #90218E;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 0px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.info {
+  background-color: #FDF5E6;
+  padding: 10px 10px 10px 10px;
+  margin: 0px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.list {
+   background-color: #FDF5E6;
+   padding: 0px 0px 0px 40px;
+   margin: 0px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.welcome {
+  display: inline-block;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.imgbox {
+  display: block;
+  max-width: 100%;
+  background-color: #FDF5E6;
+  margin: 0px;
+}
+
+ul{
+  background-color: #FDF5E6;
+  padding: 10px 10px 10px 10px;
+  margin: 0px;
+  padding-left: 40px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+ol{
+  background-color: #FDF5E6;
+  padding: 10px 10px 10px 10px;
+  margin: 0px;
+  padding-left: 50px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
